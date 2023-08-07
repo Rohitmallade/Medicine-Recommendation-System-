@@ -1,7 +1,5 @@
 # Medicine-Recommendation-System 💊
 
-![medicine-image](https://github.com/anurag-b72/medicine-recommendation-system/blob/main/images/medicine-image.jpg)
-
 This recommendation system is supposed to recommend any medicine/drug on the basis of the search result.
 The main aim is to recommend any alternative/substitute to be used in place of searched medicine.
 
@@ -18,19 +16,9 @@ The main aim is to recommend any alternative/substitute to be used in place of s
 
 ---
 
-## Video Demonstration:- ▶️
-[Click Here for Application Demo](https://youtu.be/0bE4Na5Tk8Q "YouTube")
-
----
-
 ## Kaggle Dataset 📊
 [Click Here to Access Dataset](https://www.kaggle.com/code/mpwolke/medicine-recommendation/data "Kaggle Site")
 
 ---
 
-## Contact 📝
-Anurag Biswal - 
-* [anurag.biswal0702@gmail.com](mailto:anurag.biswal0702@gmail.com "anurag.biswal0702@gmail.com")
-* [Linkedin](https://www.linkedin.com/in/anurag-biswal72/ "Linkedin")
-* [Portfolio](https://anurag-b72.github.io/MyPortfolio/ "Website")
-* [Twitter](https://twitter.com/AnuragBiswal72 "Twitter")
+
