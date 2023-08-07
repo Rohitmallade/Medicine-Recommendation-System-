@@ -2,6 +2,7 @@
 
 This recommendation system is supposed to recommend any medicine/drug on the basis of the search result.
 The main aim is to recommend any alternative/substitute to be used instead of searched medicine.
+![Alt text](D:\Downloads\WhatsApp Image 2023-08-07 at 6.08.54 PM)
 
 ### Steps to Open Localhost for application: 🌐
 > 1. Clone Github Repository.
