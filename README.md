@@ -2,7 +2,8 @@
 
 This recommendation system is supposed to recommend any medicine/drug on the basis of the search result.
 The main aim is to recommend any alternative/substitute to be used instead of searched medicine.
-![Alt text](D:\Downloads\WhatsApp Image 2023-08-07 at 6.08.54 PM)
+![WhatsApp Image 2023-08-07 at 6 08 54 PM](https://github.com/Rohitmallade/Medicine-Recommendation-System-/assets/101043511/d8053523-03a5-4b9d-8da7-e9fd310b003b)
+
 
 ### Steps to Open Localhost for application: 🌐
 > 1. Clone Github Repository.
